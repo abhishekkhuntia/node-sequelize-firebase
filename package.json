@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-firebase",
+  "version": "1.0.0",
+  "description": "Node based application using sequelize as ORM and Firebase as authenticator.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkhuntia/node-sequelize-firebase.git"
+  },
+  "keywords": [
+    "Node",
+    "Sequelize",
+    "ORM",
+    "Firebase"
+  ],
+  "author": "Abhishek Khuntia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekkhuntia/node-sequelize-firebase/issues"
+  },
+  "homepage": "https://github.com/abhishekkhuntia/node-sequelize-firebase#readme"
+}
